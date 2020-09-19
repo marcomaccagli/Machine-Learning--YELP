@@ -6,4 +6,6 @@ Once this is done, we can exctract the coefficients of the words and see their m
 If "Price" has a negative coefficient, it means that that restaurant is probably overpriced, if "staff" is positive, it means that clients likes the people working there. 
 Moreover, here you can find two examples of recommender systems, on naive and one more sophisticated, using matrix factorization.
 
+![output](https://github.com/marcomaccagli/Machine-Learning--YELP/blob/master/output.PNG)
+
 
