@@ -5,3 +5,5 @@ The idea is to use all the reviews of a restaurant to predict the associated rat
 Once this is done, we can exctract the coefficients of the words and see their magnitude and sign. 
 If "Price" has a negative coefficient, it means that that restaurant is probably overpriced, if "staff" is positive, it means that clients likes the people working there. 
 Moreover, here you can find two examples of recommender systems, on naive and one more sophisticated, using matrix factorization.
+
+
